@@ -1,1 +1,1 @@
-Web-Shaker-ESP32_TMC2209
+Web Shaker ESP32 TMC2209
